@@ -7,5 +7,5 @@ This file must contain:
 - Key Features
 - Future Scope
   
-- Add Contract Contract address along with the screenshot of the transaction
+- Contract Contract address along with the screenshot of the transaction
 
